@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2243F7&background=FFFFFF00&width=435&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%F0%9F%98%81%E7%A7%81%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E7%94%BB%E9%9D%A2%E3%81%B8;Welcome+to+my+profile+page%F0%9F%A4%A9" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2243F7&background=FFFFFF00&width=450&height=60&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%F0%9F%98%81%E7%A7%81%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E7%94%BB%E9%9D%A2%E3%81%B8;Welcome+to+my+profile+page%F0%9F%A4%A9" alt="Typing SVG" /></a>
 </div>
 
 ## 🌟 **About Me**
