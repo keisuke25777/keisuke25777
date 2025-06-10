@@ -52,8 +52,8 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+### 📱  **SNS**
+<img src="https://skillicons.dev/icons?i=instagram,twitter,discord" />
 
 ### ☁️  **Backend as a Service (BaaS)**
 <img src="https://skillicons.dev/icons?i=supabase,firebase" />
