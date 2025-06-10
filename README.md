@@ -22,13 +22,13 @@
 </td>
 <td width="400" align="left">
 
-### 👋 **Hi, I'm User!**
+### 👋 **Hi, I'm Keisuke!**
 🚀 **Flutter Developer** passionate about mobile development  
 
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+🌍 **Location:** Japan 🇯🇵 Osaka
+💼 **Job:** Wakayama University Student
+☕ **Powered by:** k-pop and JARUJARU
+🎯 **Goal:** find work
 
 </td>
 </tr>
