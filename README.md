@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=1000&color=2243F7&background=FFFFFF00&width=450&height=60&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%F0%9F%98%81%E7%A7%81%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E7%94%BB%E9%9D%A2%E3%81%B8%F0%9F%91%8B;%E2%9C%A8Welcome+to+my+profile+page%F0%9F%A4%A9" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=40AFC7&background=FFFFFF00&width=450&height=60&lines=%E2%9C%A8Welcome+to+my+profile+page%F0%9F%A4%A9;%F0%9F%91%8BPlease+take+your+time+to+look+around%F0%9F%98%81;%E2%9C%8C%EF%B8%8F%ED%94%84%EB%A1%9C%ED%95%84+%ED%8E%98%EC%9D%B4%EC%A7%80%EC%97%90+%EC%98%A4%EC%8B%A0+%EA%B2%83%EC%9D%84+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
 </div>
 
 ## 🌟 **About Me**
