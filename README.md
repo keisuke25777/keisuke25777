@@ -59,7 +59,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" />
 
 ### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=matlabvscode,git,github,docker,powershell" />
+<img src="https://skillicons.dev/icons?i=matlab,vscode,git,github,docker,powershell" />
 
 </td>
 <td width="50%" align="center" valign="top">
