@@ -23,7 +23,7 @@
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm Keisuke!**
-🚀 **Flutter Developer** passionate about mobile development  
+🚀 **Budding research student** Currently researching mobile robots and propellers 
 
 🌍 **Location:** Japan 🇯🇵 Osaka
 💼 **Job:** Wakayama University Student
@@ -39,7 +39,7 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=keisuke25777&theme=cyber-streakglow&card_width=490" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
