@@ -18,7 +18,7 @@
 <tr>
 <td width="200" align="center">
 <img src="https://www.wakayama-u.ac.jp/_files/00488693/mark01.gif" width="100" height="100" alt="WakayamaUniversity" />
-<br><strong>Flutter</strong>
+<br><strong>WakayamaUniversity</strong>
 </td>
 <td width="400" align="left">
 
