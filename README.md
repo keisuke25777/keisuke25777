@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=keisuke25777&bg_color=000000&color=0870f7&line=0260f7&point=00eeff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ## 🛠️ **Tech Stack**
