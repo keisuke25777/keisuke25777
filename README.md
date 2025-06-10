@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=keisuke25777&bg_color=000000&color=0870f7&line=0260f7&point=00eeff&area=true&hide_border=true" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keisuke25777&bg_color=000000&color=0870f7&line=0260f7&point=00eeff&area=true&hide_border=true" />
 </div>
 
 ## 🛠️ **Tech Stack**
